@@ -1,2 +1,2 @@
 # iReporter
-This is project is to enable communities report crimes of corruption by creating red flags or intervention for corruption awareness in there areas
+This project will enable any citizen to bring any form of corruption to the notice of appropriate authorities or the general public
