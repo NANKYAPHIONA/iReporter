@@ -154,6 +154,9 @@ input[type=file]{
     font-size: 18px;
     padding-top: 0px;
 }
+.records a.active{
+    color: gray;
+}
 .records a:hover{
     color:gray;
 }
